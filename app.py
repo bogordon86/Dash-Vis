@@ -24,7 +24,7 @@ dbc.NavbarSimple(
             label="More",
         ),
     ],
-    brand="Google Analytics",
+    brand="Gordon Analytics",
     brand_href="#",
     color="primary",
     dark=True,
