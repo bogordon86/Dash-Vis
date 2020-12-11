@@ -1,5 +1,5 @@
 # Dash-Vis
-<<<<<<< HEAD
+
 Building a Dash App to host data analysis visualizations
 
 #Dash is the most downloaded, trusted Python framework for building ML & data science web apps.
