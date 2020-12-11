@@ -12,7 +12,7 @@ app.layout = html.Div([
 
 dbc.NavbarSimple(
     children=[
-        dbc.NavItem(dbc.NavLink("Page 1", href="#")),
+        dbc.NavItem(dbc.NavLink("Github", href="https://github.com/bogordon86/")),
         dbc.DropdownMenu(
             children=[
                 dbc.DropdownMenuItem("More pages", header=True),
@@ -24,7 +24,7 @@ dbc.NavbarSimple(
             label="More",
         ),
     ],
-    brand="Analytics",
+    brand="Google Analytics",
     brand_href="#",
     color="primary",
     dark=True,
