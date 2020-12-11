@@ -1,2 +1,2 @@
 # Dash-Vis
-Building a Dash App to host analysis of COVID-19 data
+Building a Dash App to host various analytic products 
